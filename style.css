@@ -8,20 +8,21 @@ body{
 }
 
 .cabeçalho {
-    background-color: #00a136;
+    background-color: #0d3306;
     display: flex;
-    padding: 24px 0;
+    padding: 28px 0;
     justify-content: space-around;
     align-items: center;
+    text-align: center;
 }
 
 .cabeçalho-título {
-    color: #043007;
+    color: #048504;
     font-size: 48px;
 }
 
 .custom-text {
     font-family: 'Times New Roman', serif;
-    font-size: 24px;
-   
+    font-size: 28px;
+    text-align: center;
 }
